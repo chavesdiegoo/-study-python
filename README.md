@@ -1,2 +1,2 @@
-# -study-python
+# -study-python-BR
 Estudos Python
